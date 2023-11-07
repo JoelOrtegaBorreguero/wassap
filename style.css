@@ -1,0 +1,67 @@
+
+#fondo{
+    background-color: #457879;
+}
+
+.chat-fondo{
+    background-color: #eceadc;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.mensage-blanco{
+    margin-right: 60%;
+    border: 0.2em solid black;
+    border-bottom-left-radius: 1em;
+    border-top-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+    border-top-right-radius: 1em;
+    background-color: white;
+
+
+}
+
+.mensage-verde{
+    margin-left: 60%;
+    border: 0.2em solid black;
+    border-bottom-left-radius: 1em;
+    border-top-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+    border-top-right-radius: 1em;
+    background-color: #9ad147;
+}
+
+.chat-encabezado{
+    background-color: #233c42;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    color: white;
+}
+
+.fondo-chistes{
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 0.1%;
+    padding-top: 0.5em;
+    padding-bottom: 1.5%;
+}
+
+.verde-en-blanco {
+    color: #9ad147;
+    background-color: white;
+    padding: 0.8em;
+}
+
+.blanco-en-verde {
+    color: white;
+    background-color: #9ad147;
+    padding: 0.8em;
+}
+
+#titulo {
+    text-align: center;
+    size: 10%;
+} 
